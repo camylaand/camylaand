@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camylaand
-- Estudante de Análise e Densenvolvimento de sistemas;
-- Especificidade em HTML, CSS, Python e iniciante em JavaScript;
+- 📚 Estudante de Análise e Densenvolvimento de sistemas;
+- 👩🏻‍💻 Especificidade em HTML, CSS, Python e iniciante em JavaScript;
 - 💞️ Apaixoanada por tecnologia
 
 
