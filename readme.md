@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @camylaand
+- 👋 Olá, sou @camylaand
 - 📚 Estudante de Análise e Densenvolvimento de sistemas;
 - 💻 Especificidade em HTML, CSS, Python e iniciante em JavaScript;
 - 💞️ Apaixoanada por tecnologia
