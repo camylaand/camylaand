@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Camyla Andrade
 
-**`Cientista de dados`**
+**`Desenvolvedora Python | Machine Learning`**
 
 Me chamo Camyla Andrade, tenho 20 anos e sou natural de Aracaju - SE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (Unit).
 Desde o término do ensino médio, desenvolvi um interesse genuíno por programação, e ao longo do tempo essa curiosidade se transformou em uma paixão por tecnologia. Me dedico especialmente às áreas de Data Science, Machine Learning e desenvolvimento de APIs.
