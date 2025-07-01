@@ -98,3 +98,4 @@ Desde o término do ensino médio, desenvolvi um interesse genuíno por programa
 
 
 
+![Snake animation](https://github.com/camylaand/camylaand/blob/output/github-contribution-grid-snake.svg)
