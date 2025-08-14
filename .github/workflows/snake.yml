@@ -1,0 +1,19 @@
+name: Snake animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza todo dia à meia-noite (UTC)
+  workflow_dispatch:      # Permite atualizar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v0.3.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
