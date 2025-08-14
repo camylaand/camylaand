@@ -98,5 +98,9 @@ Desde o término do ensino médio, desenvolvi um interesse genuíno por programa
 
 
 
-![Snake animation](https://raw.githubusercontent.com/camylaand/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
-> *A cobrinha ainda está com fome... mais contribuições virão!* 🐍✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camylaand/camylaand/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camylaand/camylaand/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/camylaand/camylaand/output/github-contribution-grid-snake.svg" />
+</picture>
+
